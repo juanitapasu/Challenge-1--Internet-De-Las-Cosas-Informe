@@ -1,4 +1,4 @@
-# Challenge-1--Internet-De-Las-Cosas-Informe
+# Challenge-1 Informe
 ## 4. Justificación de la medición de Amoníaco (NH₃)
 
 ### 4.1 Caracterización del gas NH₃
