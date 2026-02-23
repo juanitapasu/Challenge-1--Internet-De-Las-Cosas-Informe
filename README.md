@@ -25,15 +25,15 @@ Según organismos regulatorios como OSHA y ACGIH, el NH₃ es considerado un gas
 
 Se decidió monitorear NH₃ debido a:
 
-#### 1️⃣ Actividad agropecuaria
+#### 1️ Actividad agropecuaria
 
 La región Sabana Centro presenta alta actividad agrícola, donde el uso de fertilizantes nitrogenados genera emisiones de amoníaco al ambiente.
 
-#### 2️⃣ Procesos industriales
+#### 2️ Procesos industriales
 
 Zonas industriales pueden liberar amoníaco en refrigeración y almacenamiento de alimentos.
 
-#### 3️⃣ Formación secundaria de material particulado
+#### 3️ Formación secundaria de material particulado
 
 El NH₃ reacciona en la atmósfera con compuestos ácidos formando partículas finas (PM2.5), lo cual contribuye indirectamente al aumento del material particulado respirable.
 
