@@ -108,3 +108,7 @@ La selección del NH₃ cumple con:
 - Sistema autónomo sin red
 
 Esto demuestra aplicación del diseño ingenieril bajo limitaciones reales, alineado con la rúbrica del Challenge.
+
+### Referencias
+
+Detectores de gas de amoníaco NH3 | Industrial Scientific. (n.d.). https://www.indsci.com/es/industrial-scientific-typos-de-gases-amon%C3%ADaco-nh3
