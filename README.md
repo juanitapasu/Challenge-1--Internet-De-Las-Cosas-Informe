@@ -61,23 +61,23 @@ A partir de los límites regulatorios internacionales (OSHA, ACGIH, IDLH) y los 
 
 La elección del amoníaco como variable principal de contaminación se fundamenta en:
 
-#### ✔ Disponibilidad tecnológica
+#### Disponibilidad tecnológica
 
 El sensor MQ-135 permite la detección de NH₃ en rangos bajos y es compatible con el ESP32 mediante lectura analógica.
 
-#### ✔ Bajo costo
+#### Bajo costo
 
 El MQ-135 es económicamente accesible, cumpliendo con la restricción del reto de desarrollar un sistema IoT de bajo costo.
 
-#### ✔ Impacto en salud pública
+#### Impacto en salud pública
 
 Concentraciones superiores a 25 ppm ya generan efectos fisiológicos medibles. A partir de 50 ppm se alcanza el límite permisible de exposición laboral según OSHA.
 
-#### ✔ Relevancia ambiental regional
+#### Relevancia ambiental regional
 
 En zonas agrícolas y periurbanas, el NH₃ es un contaminante frecuente y precursor de partículas finas.
 
-#### ✔ Aplicabilidad comunitaria
+#### Aplicabilidad comunitaria
 
 El monitoreo in situ permite advertir a comunidades cercanas a zonas agrícolas o industriales sobre incrementos peligrosos.
 
